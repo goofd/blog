@@ -1,4 +1,4 @@
 blog
 ====
 
-A first github blog
+A first github blog as goofd.
